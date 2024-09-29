@@ -1,4 +1,4 @@
-<html>
+<!Doctype html>
 <head>
 <title> Deployment</title>
 </head>
